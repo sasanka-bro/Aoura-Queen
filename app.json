@@ -17,22 +17,22 @@
         "S_DOWN_SONG": {
             "description": "Enter the audio download message... ශබ්ද බාගත වීමේ පණිවිඩය ඇතුලත් කරන්න",
             "required": true,
-            "value": "_*Searching your song by Aoura Queen*_ ✨🔍🔎"
+            "value": "_*Searching your song by Aoura Queen*ᴘᴏᴡᴇʀᴅ ʙʏ λᴏᴜᴇʀɑ ǫᴜᴇᴇɴ*\\n\\n*_ ✨🔍🔎"
         },
         "S_UP_SONG": {
             "description": "Enter the audio upload message... ශබ්ද උඩුගත වීමේ පණිවිඩය ඇතුලත් කරන්න",
             "required": true,
-            "value": "_*Uploading your song by Aoura Queen*_(x_x)➾😊"
+            "value": "_*Uploading your song by Aoura Queen*ᴘᴏᴡᴇʀᴅ ʙʏ λᴏᴜᴇʀɑ ǫᴜᴇᴇɴ*\\n\\n*_(x_x)➾😊"
         },
         "S_DOWN_VID": {
             "description": "Enter the video download message... වීඩියෝ බාගත වීමේ පණිවිඩය ඇතුලත් කරන්න",
             "required": true,
-            "value": "_*Aoura Queen Is Searching your video*_ ✨🔍🔎"
+            "value": "_*Aoura Queen Is Searching your video**ᴘᴏᴡᴇʀᴅ ʙʏ λᴏᴜᴇʀɑ ǫᴜᴇᴇɴ*\\n\\n_ ✨🔍🔎"
         },
         "S_UP_VID": {
             "description": "Enter the video upload message... වීඩියෝ උඩුගත වීමේ පණිවිඩය ඇතුලත් කරන්න",
             "required": true,
-            "value": "_*Aoura Queen is Uploading your video*_ (x_x)➾😊"
+            "value": "_*Aoura Queen is Uploading your video**ᴘᴏᴡᴇʀᴅ ʙʏ λᴏᴜᴇʀɑ ǫᴜᴇᴇɴ*\\n\\n_ (x_x)➾😊"
         },
         "MENU_HEADER": {
             "description": "ITS CHANGE YOUR CMD LIST HEADER",
